@@ -47,3 +47,20 @@ index.html
 ## 2. Wait for Pull Request to merge
 
 ## 3. Celebrate - you've done your first pull request!!
+
+Some faq
+
+How do I get started?
+First, register at hacktoberfest.digitalocean.com. Then, submit at least four pull requests to any public GitHub repository that is classified with the hacktoberfest topic or has a hacktoberfest-accepted label on it. You can look for open issues labeled Hacktoberfest for inspiration. Quality contributions are encouraged! Are you maintaining a repo? Create issues or classify existing issues on your GitHub projects with hacktoberfest to help let new contributors know what to work on. Tag any spam or irrelevant pull requests with the invalid label to disqualify them.
+
+What do I do if I want to contribute to a project but it doesn’t have the hacktoberfest topic?
+You can still contribute to any public GitHub repository and have it count towards your progress provided that your pull request is labeled with hacktoberfest-accepted.
+
+If I made 4 pull requests before October 3rd, 2020 and they were merged, will they count towards my goal?
+All pull requests made before October 3 at 12:00 UTC, 2020, will count before the rules were changed. Please keep in mind that the review window has been updated to 14 days.
+
+How do I track my progress?
+Log in with your GitHub account at hacktoberfest.digitalocean.com to check your progress and stats.
+
+I completed four pull requests. When will I receive my T-shirt?
+T-shirts (or the option to plant a tree) will be awarded on a first-come, first-serve basis to the first 70,000 participants who successfully complete the Hacktoberfest challenge. We’ll start sending out emails with more details on redeeming T-shirts throughout the month, so stay tuned.
